@@ -1,1 +1,1 @@
-# django-basic-application2
+# Creating forms with Django
